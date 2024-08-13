@@ -1,4 +1,8 @@
 # AWS S3 Bucket Static Website
+<div align="center">
+  <img src="images/index.jpeg" alt="Logo" width="100%" height="100%">
+  <p align="center">Home Page</p>
+</div>
 
 ## Steps to deploy Application
 1. Create AWS [IAM User](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html#id_users_create_console)
