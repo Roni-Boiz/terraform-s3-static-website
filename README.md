@@ -4,7 +4,7 @@
   <p align="center">Home Page</p>
 </div>
 
-## Steps to deploy Application
+## Steps to deploy application
 1. Create AWS [IAM User](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html#id_users_create_console)
 2. Set necessory permision to create and destroy S3 resources (Eg: **AmazonS3FullAccess** or **AdministratorAccess**)<br>
     > use Permissions --> Add permissions --> Attach policies directly
